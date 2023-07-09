@@ -9,3 +9,5 @@ https://www.kaggle.com/datasets/chrisfilo/urbansound8k
 # Статья с инфой
 
 https://towardsdatascience.com/urban-sound-classification-part-1-99137c6335f9
+
+![cat](https://tenor.com/search/cat-explosion-gifs)
