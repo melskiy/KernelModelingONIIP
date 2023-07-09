@@ -10,4 +10,4 @@ https://www.kaggle.com/datasets/chrisfilo/urbansound8k
 
 https://towardsdatascience.com/urban-sound-classification-part-1-99137c6335f9
 
-![](https://tenor.com/search/cat-explosion-gifs)
+![boomcat](https://media.tenor.com/hnZRuZhgPSsAAAAd/cat-explosion.gif)
